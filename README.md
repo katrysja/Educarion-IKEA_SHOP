@@ -1,1 +1,1 @@
-# Educarion-IKEA_SHOP
+# Education-IKEA_SHOP
